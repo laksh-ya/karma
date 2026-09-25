@@ -73,3 +73,4 @@ Analyzing AgenticRAG Gaps.md
 *.log
 *.tmp
 *.bak
+/storage
